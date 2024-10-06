@@ -1,5 +1,4 @@
 # SellScaleHood Application
-# SellScaleHood Application
 
 SellScaleHood is a simple stock trading web application inspired by Robinhood. This project features a full-stack solution with a backend built using Flask and a frontend using ReactJS, leveraging Firebase as a real-time database for portfolio management.
 
